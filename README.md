@@ -5,8 +5,8 @@ The issue number `FB11913672`.
 
 # Update Feb 27, 2023 (Fix)
 
-The issues has been addressed and fixed in Xcode 14.3 Beta(14E5197f).
-I have tested it for MacMini M1 2020, OSX13.1(22C65) and iPhone 13 Mini, iOS 16.3.1.
+The issues has been addressed and fixed in **Xcode 14.3 Beta(14E5197f)**.
+I have tested it with **MacMini M1 2020, OSX13.1(22C65)** and **iPhone 13 Mini, iOS 16.3.1**.
 Now the data copied to a shared MTLBuffer with copyMemory() is in sync.
 
 ## Issuse Description
